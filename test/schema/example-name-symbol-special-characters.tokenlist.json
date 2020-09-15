@@ -24,12 +24,7 @@
       "decimals":10
     }
     
-      "chainId": 1,
-      "address": "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
-      "symbol": "USD++",
-      "name": "PieDAO USD++ Pool",
-      "decimals": 18
-  ],
+"l
   "version": {
     "major": 1,
     "minor": 0,
